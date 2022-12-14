@@ -1,2 +1,3 @@
 # advent-of-code
- Solving the advent of code problems
+
+ Solving the [advent of code](https://adventofcode.com) problems.
